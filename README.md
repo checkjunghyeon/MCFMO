@@ -3,5 +3,5 @@
 
 <br>
 <div align="center">
-  <img src="https://github.com/checkjunghyeon/MCFMO/blob/main/docs/mcfmo_architecture.png" />&nbsp
+  <img src="https://github.com/checkjunghyeon/MCFMO/blob/main/docs/mcfmo_model_architecture.png" />&nbsp
 </div>
